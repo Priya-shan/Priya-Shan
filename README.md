@@ -3,7 +3,7 @@
 <h1 align="center">Hello 👋, I'm Shanmuga Priya M</h1>
 <h3 align="center">A Girls who loves to Code💕</h3>
 
-<p align="center"><img alt="coding" width="" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"></p>
+<p align="center"><img alt="coding" height="350" width="700" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"></p>
 
 
 - 🌱 I’m currently learning **Android Development**
