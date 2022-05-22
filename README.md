@@ -1,5 +1,3 @@
-
-<img align="center" alt="coding" width="1500" src="https://i.postimg.cc/pTm4cTPm/aaa.png">
 <h1 align="center">Hello 👋, I'm Shanmuga Priya M</h1>
 <h3 align="center">A Girls who loves to Code💕</h3>
 
