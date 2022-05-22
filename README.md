@@ -22,10 +22,8 @@
 <a href="https://linkedin.com/in/priyashan007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyashan007" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14950566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14950566" height="30" width="40" /></a>
 <a href="https://instagram.com/p_r_i_y_a_shan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p_r_i_y_a_shan" height="30" width="40" /></a>
-<a href="https://hashnode.com/@priyashan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@priyashan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shanmuga priya m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shanmuga priya m" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/priyashan22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="priyashan22" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@shanmugapriyashanu2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shanmugapriyashanu2002" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/priyashan/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="priyashan/profile" height="30" width="40" /></a>
 </p>
 
