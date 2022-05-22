@@ -1,10 +1,10 @@
 
-<img align="center" alt="coding" width="1500" height="350" src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg">
-
+<img align="center" alt="coding" width="1500" src="https://i.postimg.cc/pTm4cTPm/aaa.png">
 <h1 align="center">Hello 👋, I'm Shanmuga Priya M</h1>
 <h3 align="center">A Girls who loves to Code💕</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+<p align="center"><img alt="coding" width="" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"></p>
+
 
 - 🌱 I’m currently learning **Android Development**
 
@@ -17,6 +17,7 @@
 - 📫 How to reach me **shanmugapriyashanu2002@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ipJA2XL_aKDWrGfRVf2DECsL9QCNJFw6/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
