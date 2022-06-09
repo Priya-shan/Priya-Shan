@@ -31,6 +31,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=priya-shan&show_icons=true&locale=en" alt="priya-shan" /></p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priya-shan/>
-
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=Priya-Shan&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priya-shan&" alt="priya-shan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priya-shan&show_icons=true&locale=en&layout=compact" alt="priya-shan" /></p>
