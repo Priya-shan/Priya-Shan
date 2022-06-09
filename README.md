@@ -1,10 +1,8 @@
 <h1 align="center">Hello 👋, I'm Shanmuga Priya M</h1>
 <h3 align="center">A Girls who loves to Code💕</h3>
 
-<p align="center"><img alt="coding" height="350" width="700" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priya-Shan&label=Profile%20views&color=0e75b6&style=flat" alt="kirthana5" /> </p>
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
 - 🌱 I’m currently learning **Android Development**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://priya-shan.github.io/Portfolio/)
