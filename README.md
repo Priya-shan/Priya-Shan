@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://priya-shan.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://priya-shan.github.io/Portfolio/)
 
 - 📝 I regularly write articles on [Hashnode](https://priyashan.hashnode.dev/)
 
