@@ -3,11 +3,9 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
 
-- 🌱 I’m currently learning **Cloud Application Development**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://priya-shan.github.io/Portfolio/)
-
-- 📝 I regularly write articles on [Hashnode](https://priyashan.hashnode.dev/)
 
 - 💬 Ask me about **✨Java✨**
 
